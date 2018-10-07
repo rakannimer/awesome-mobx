@@ -469,6 +469,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   [react-intl](https://github.com/yahoo/react-intl)
 * [firestorter](https://github.com/IjzerenHein/firestorter) Use Firestore
   in React with zero effort, using MobX
+* [mobx-fire](https://github.com/rakannimer/mobx-fire) Map your Firebase queries to a MobX observable array, box or map. Tiny <1K util.
 
 #### Model libraries
 
